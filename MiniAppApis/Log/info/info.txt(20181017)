@@ -1,0 +1,29 @@
+2018-10-17 14:46:07,212 [6]INFO  log4net - 
+                             请求接口
+                             地址：GetAccountInfo,
+                             请求参数：{
+"userid":"228"
+},
+                             创建时间：10/17/2018 14:46:07,
+                             IP：::1
+                            
+2018-10-17 14:46:07,247 [6]INFO  log4net - 检查token
+2018-10-17 14:46:07,470 [6]INFO  log4net - token丢失
+2018-10-17 14:51:00,426 [5]INFO  log4net - 
+                             请求接口
+                             地址：GetAccountInfo,
+                             请求参数： {
+	"conten":{
+	    "userid":"222",
+	    "stype":"1",
+		"timetype":"1",
+		"infotimetype":"1",
+		"time":"2018-09-26",
+		"upanddown":"0" 
+	}
+},
+                             创建时间：10/17/2018 14:51:00,
+                             IP：::1
+                            
+2018-10-17 14:51:00,440 [5]INFO  log4net - 检查token
+2018-10-17 14:51:00,655 [5]INFO  log4net - token丢失
